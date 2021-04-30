@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inspiring_people</string>
+    <string name="nikola">Nikola Tesla</string>
+    <string name="datebd">1856.-1943.</string>
+    <string name="des">Inventor of alternating currency</string>
+    <string name="Save">Save</string>
+</resources>
